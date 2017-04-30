@@ -1,0 +1,22 @@
+{
+    "name": "theme-tomorrownight-italics",
+    "displayName": "Tomorrow Night Italics",
+    "description": "Tomorrow Night, with italics",
+    "version": "0.0.1",
+    "publisher": "kennethreitz",
+    "engines": {
+        "vscode": "^1.11.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Tomorrow Night Italics",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Tomorrow-Night-Italics.tmTheme"
+            }
+        ]
+    }
+}
